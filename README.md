@@ -1,5 +1,4 @@
 # 🐦‍🔥About Me:
-**`A Passionate Web Developer`**
 
 🚀 I have built multiple real-world projects from
 
