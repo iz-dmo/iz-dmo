@@ -6,11 +6,10 @@
 
 **`💬 chat applications`**, **`⚙️ to automation tools`**. 
 
-My long-term mission is to create my own technology-driven business and deliver digital solutions that actually matter.
-
-Currently sharpening my skills in system design, competitive programming while constantly exploring modern web technologies. 
-
-At the same time, I dive into
+  My long-term mission is to create my own technology-driven business and deliver digital solutions that actually matter.
+  Currently sharpening my skills in system design, competitive programming while constantly exploring modern web technologies. 
+  
+  At the same time, I dive into
 
 **`📈 trading strategies`**, 
 
